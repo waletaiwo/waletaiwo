@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Adewale Babalola might be a mouthful so you can call me Babz!
 
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/_shellhead?label=Follow%20me%20on%20Twitter&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/_shellhead?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/_shellhead?ref_src=twsrc%5Etfw)
 <!--- add twitter follow link ----->
 I am a Cloud Architect who specilises in AWS. I have hands on experience with the technologies in the listed in the **stacks** section.  
 
