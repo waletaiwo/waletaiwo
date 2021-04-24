@@ -23,7 +23,7 @@ I am a Cloud Architect who specilises in AWS. I have hands on experience with th
 ---
 
 
-⚡ Fun fact about me, I love <img src="https://cdn.worldvectorlogo.com/logos/marvel.svg" alt="Marvel Logo" weight="15" height="15" /> cinematic universe  and i love watching animes in my spare time.
+⚡ Fun fact about me, I love <img src="https://cdn.worldvectorlogo.com/logos/marvel.svg" alt="Marvel Logo" weight="15" height="15" /> cinematic universe  and i enjoy watching animes in my spare time.
 <!--
 **waletaiwo/waletaiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
