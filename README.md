@@ -1,8 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Adewale Babalola 
 
 ---
-
-![Twitter Follow](https://img.shields.io/twitter/follow/_shellhead?label=Follow%20me%20on%20Twitter&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/_shellhead?label=Twitter%20followers%20&style=social)
 
 I am a Cloud Architect who specilises in AWS. I have hands on experience with the technologies in the listed in the **stacks** section.  
 
@@ -24,7 +23,7 @@ I am a Cloud Architect who specilises in AWS. I have hands on experience with th
 ---
 
 
-⚡ Fun fact about me, I love <img src="https://cdn.worldvectorlogo.com/logos/marvel.svg" alt="Marvel Logo" weight="20" height="20" /> cinematic universe  and i love watching animes in my spare time.
+⚡ Fun fact about me, I love <img src="https://cdn.worldvectorlogo.com/logos/marvel.svg" alt="Marvel Logo" weight="15" height="15" /> cinematic universe  and i love watching animes in my spare time.
 <!--
 **waletaiwo/waletaiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
