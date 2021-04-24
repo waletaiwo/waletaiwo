@@ -8,8 +8,12 @@ I am a Cloud Architect who specilises in AWS. I have hands on experience with th
 
 
 
+
+
+
+
 ---
-🧰 Stacks 
+🧰 **Stacks** 
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" weight="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" weight="50" height="50" /> 
@@ -17,15 +21,16 @@ I am a Cloud Architect who specilises in AWS. I have hands on experience with th
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Aws Logo" weight="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" weight="50" height="50" />
 
+---
 
 
-
+⚡ Fun fact about me, I love <img src="https://cdn.worldvectorlogo.com/logos/marvel.svg" alt="Marvel Logo" weight="20" height="20" /> cinematic universe  and i love watching animes in my spare time.
 <!--
 **waletaiwo/waletaiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on an a todo ap
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
