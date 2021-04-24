@@ -1,9 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Babz ☁️
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Adewale Babalola might be a mouthful so you can call me Babz!
 
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/_shellhead?label=Twitter%20followers%20&style=social)
-
-I am a Cloud Architect who specilises in AWS. I have hands on experience with the technologies in the listed in the **stacks** section.  
+I am a Cloud Architect who specilises in AWS.I have hands on experience with the technologies in the listed in the **stacks** section.  
 
 
 
@@ -19,6 +18,7 @@ I am a Cloud Architect who specilises in AWS. I have hands on experience with th
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" weight="50" height="50" /> 
 <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Aws Logo" weight="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" weight="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" weight="50" height="50" />
 
 ---
 
