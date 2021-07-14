@@ -16,13 +16,11 @@ Hope to hear from you <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP
 ---
 🧰 **Stacks** 
 
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" weight="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" weight="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" weight="50" height="50" /> 
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Aws Logo" weight="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" weight="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="Aws Logo" weight="50" height="50" /> <img src="https://cdn.worldvectorlogo.com/logos/terraform-enterprise.svg" alt="Terraform Logo" weight="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" weight="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes Logo" weight="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" weight="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" weight="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" weight="50" height="50" /> 
 
 
 ---
