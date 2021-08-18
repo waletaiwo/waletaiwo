@@ -27,6 +27,16 @@ Hope to hear from you <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP
 
 
 ⚡ Fun fact about me, I love <img src="https://cdn.worldvectorlogo.com/logos/marvel.svg" alt="Marvel Logo" weight="15" height="15" /> cinematic universe  and i enjoy watching animes in my spare time.
+
+
+
+---
+📘 Latest Blog Articles 
+▶️[...more blog articles](https://babz.hashnode.dev/)
+<!-- BLOG-POST-LIST:START-->
+
+
+<!-- BLOG-POST-LIST:END-->
 <!--
 **waletaiwo/waletaiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
