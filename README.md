@@ -34,6 +34,8 @@ Hope to hear from you <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP
 📘 Latest Blog Articles 
 ▶️[...more blog articles](https://babz.hashnode.dev/)
 <!-- BLOG-POST-LIST:START-->
+- [Navigating the Linux CLI](https://babz.hashnode.dev/navigating-the-linux-cli-cksm99jic0s7g1ws13cv3djiu)
+- [Understanding the AWS VPC](https://babz.hashnode.dev/understanding-the-aws-vpc-cksm92cy40s6m1ws12fcj6jtb)
 - [What is Infrastructure as Code?](https://babz.hashnode.dev/what-is-infrastructure-as-code-ckscdninm0114t2s1clv57nbp)
 - [Demystifying DevOps](https://babz.hashnode.dev/demystifying-devops-cksc88upl00ecu5s14s1r4grp)
 <!-- BLOG-POST-LIST:END-->
