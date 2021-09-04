@@ -34,11 +34,11 @@ Hope to hear from you <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP
 📘 Latest Blog Articles 
 ▶️[...more blog articles](https://babz.hashnode.dev/)
 <!-- BLOG-POST-LIST:START-->
+- [CI/CD Simplified](https://babz.hashnode.dev/cicd-simplified-ckt5n3bco030j7us159clg8mn)
 - [What you should know about the Linux kernel](https://babz.hashnode.dev/what-you-should-know-about-the-linux-kernel-ckt4w2iki07igces1grwdgjwm)
 - [Linux Package Management](https://babz.hashnode.dev/linux-package-management-ckswve0w00mzdn1s18flj7tua)
 - [Navigating the Linux CLI](https://babz.hashnode.dev/navigating-the-linux-cli-cksm99jic0s7g1ws13cv3djiu)
 - [Understanding the AWS VPC](https://babz.hashnode.dev/understanding-the-aws-vpc-cksm92cy40s6m1ws12fcj6jtb)
-- [What is Infrastructure as Code?](https://babz.hashnode.dev/what-is-infrastructure-as-code-ckscdninm0114t2s1clv57nbp)
 <!-- BLOG-POST-LIST:END-->
 <!--
 **waletaiwo/waletaiwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
