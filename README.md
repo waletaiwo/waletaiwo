@@ -34,7 +34,7 @@ Hope to hear from you <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP
 📘 Latest Blog Articles 
 ▶️[...more blog articles](https://babz.hashnode.dev/)
 <!-- BLOG-POST-LIST:START-->
-- [Version Control System: Into to Git / Github](https://babz.hashnode.dev/version-control-system-into-to-git-github-cktfowvlj0aptxas1djj4gyhf)
+- [Version Control System: Intro to Git / Github](https://babz.hashnode.dev/version-control-system-intro-to-git-github-cktfowvlj0aptxas1djj4gyhf)
 - [Intro to Web servers: Nginx](https://babz.hashnode.dev/intro-to-web-servers-nginx-cktfovps80aplxas19glg8lpp)
 - [CI/CD Simplified](https://babz.hashnode.dev/cicd-simplified-ckt5n3bco030j7us159clg8mn)
 - [What you should know about the Linux kernel](https://babz.hashnode.dev/what-you-should-know-about-the-linux-kernel-ckt4w2iki07igces1grwdgjwm)
