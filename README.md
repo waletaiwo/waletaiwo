@@ -1,10 +1,10 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Adewale Babalola might be a mouthful so you can call me Babz!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Adewale Babalola... might be a mouthful so, you can call me Babz!
 
 ---
 [![Twitter Follow](https://img.shields.io/twitter/follow/_waletaiwo?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/_waletaiwo?ref_src=twsrc%5Etfw)
 
-I am a Cloud Engineer with knowledge of Devops tools and practices. I have hands on experience with the technologies in the listed in the **stacks** section.
-I am open to remote jobs and a chance to learn more and contribute to the tech community. Please reach out to me if you have any job that suits my stacks,if you need a volunteer you can also reach out via twitter.
+I am a Cloud Engineer with knowledge of Devops tools and practices. I have hands-on experience with the technologies in the listed in the **stacks** section.
+I am open to remote jobs and a chance to learn more and contribute to the tech community. Please reach out to me if you have any job that suits my stacks, if you need a volunteer you can also reach out via twitter.
 Hope to hear from you <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="25px">    
 
 <!-- add more detailed description here -->
