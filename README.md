@@ -20,7 +20,11 @@ Hope to hear from you <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP
 <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" weight="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" alt="Kubernetes Logo" weight="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" weight="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" weight="50" height="50" /> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" weight="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python Logo" weight="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="Golang Logo" weight="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/concourse-1.svg" alt="Concourse Logo" weight="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/vault-enterprise.svg" alt="Vault Logo" weight="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/nomad-enterprise.svg" alt="Nomad Logo" weight="50" height="50" />
 
 
 ---
